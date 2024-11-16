@@ -11,6 +11,12 @@ My Linux Learning sites:
 * https://youtu.be/YHFzr-akOas?si=_qFtH5fM1JF0MBke
 
 * Command	Description
+ls	List all the files in a directory
+ls -l	List all files and their details (owner, mtime, size, etc)
+ls -a	List all the files in a directory (including hidden files)
+pwd	Show the present working directory
+cd	Change directory to some other location
+file	View the type of any file
 mkdir	Create a new directory
 touch	Create a new, empty file, or update the modified time of an existing one
 cat > file  Create a new file with the text you type after
